@@ -1,0 +1,9 @@
+/Users/rveerama@us.ibm.com/IdeaProjects/git2Kafka2/kafkaConnect/src/main/java/com/ramesh/kafka/MySinkConnectorConfig.java
+/Users/rveerama@us.ibm.com/IdeaProjects/git2Kafka2/kafkaConnect/src/main/java/com/ramesh/kafka/Validators/TimeStampValidator.java
+/Users/rveerama@us.ibm.com/IdeaProjects/git2Kafka2/kafkaConnect/src/main/java/com/ramesh/kafka/MySinkTask.java
+/Users/rveerama@us.ibm.com/IdeaProjects/git2Kafka2/kafkaConnect/src/main/java/com/ramesh/kafka/Validators/BatchSizeValidator.java
+/Users/rveerama@us.ibm.com/IdeaProjects/git2Kafka2/kafkaConnect/src/main/java/com/ramesh/kafka/MySourceTask.java
+/Users/rveerama@us.ibm.com/IdeaProjects/git2Kafka2/kafkaConnect/src/main/java/com/ramesh/kafka/MySinkConnector.java
+/Users/rveerama@us.ibm.com/IdeaProjects/git2Kafka2/kafkaConnect/src/main/java/com/ramesh/kafka/MySourceConnectorConfig.java
+/Users/rveerama@us.ibm.com/IdeaProjects/git2Kafka2/kafkaConnect/src/main/java/com/ramesh/kafka/MySourceConnector.java
+/Users/rveerama@us.ibm.com/IdeaProjects/git2Kafka2/kafkaConnect/src/main/java/com/ramesh/kafka/GithubConnectorConfigDef.java
